@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "sql",
+      "database": "desafio2_carlos_silva_911",
+      "username": "rollermister"
+    }
+  ]
+}
