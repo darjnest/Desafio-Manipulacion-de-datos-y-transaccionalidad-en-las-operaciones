@@ -9,6 +9,7 @@ SELECT COUNT(*) AS total_registros FROM INSCRITOS;
 SELECT SUM(cantidad) AS total_inscritos FROM INSCRITOS;
 
 -- total_inscritos
+-----------------
 --             774
 
 -- ¿Cuál o cuáles son los registros de mayor antigüedad?
