@@ -50,9 +50,14 @@ VALUES
 (83, '2021-01-08', 'Blog'),
 (99, '2021-01-08', 'Página');
 
+```
+
 ### Requerimientos:
 
 Base de datos llamada Desafio2_Carlos_Silva_911
 Script para crear la tabla e insertar los registros.
 Consultas SQL que respondan a las preguntas planteadas.
+
+```
+
 ```
